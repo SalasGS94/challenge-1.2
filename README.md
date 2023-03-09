@@ -1,2 +1,9 @@
 # challenge-1.2
-![pago bootcamp febrero](https://user-images.githubusercontent.com/126364708/223888155-81c27fe0-48b4-4fed-8455-4b6f719b456d.JPG)
+
+![Horiseon main page](https://user-images.githubusercontent.com/126364708/223891910-209977b1-2881-4383-9df8-0925936c84fa.jpg)
+
+LINK
+https://salasgs94.github.io/challenge-1.2/
+
+DESCRIPTION
+All the acceptance criteria were addressed to the best of my ability.
